@@ -1,6 +1,10 @@
 github-mentions-to-slack
 ========================
 
+:warning: **NOTICE:** The new [GitHub Slack app](https://slack.github.com/) that has been officially provided by GitHub is *supporting to convert mentions*. This proxy is provided for [a legacy GitHub integration](https://slack.com/apps/A0F7YS2SX-github-notifications-legacy), that is still supporting on GitHub Enterprise.
+
+---
+
 Provide proxy to resolve GitHub mentions into Slack mentions.
 
 ![](https://user-images.githubusercontent.com/3993388/34387761-54c074c4-eb73-11e7-8c72-29def8c413dd.png)
